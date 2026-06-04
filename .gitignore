@@ -1,0 +1,13 @@
+# Godot 4 editor / import cache
+.godot/
+
+# Web export output
+/out/
+
+# Backup files
+export_presets.cfg.bak
+
+# Downloaded engine binary / templates (never commit the engine)
+godot
+*.tpz
+*.tmp
